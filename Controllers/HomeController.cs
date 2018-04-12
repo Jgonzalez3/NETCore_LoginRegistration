@@ -30,6 +30,13 @@ namespace LoginRegistration.Controllers
         [Route("/register")]
         public IActionResult Register(Users Reg){
             if(ModelState.IsValid){
+                List<Dictionary<string,object>> Allusers = _dbConnector.Query($"SELECT * FROM users WHERE email = '{Reg.Email}';");
+                foreach(var user in Allusers){
+                    if((string)user["email"] == Reg.Email){
+                        TempData["emailinuse"] = "Email is already in use";
+                        return RedirectToAction("Index");
+                    }
+                }
                 _dbConnector.Execute($"INSERT INTO users(first_name, last_name, email, password) VALUES('{Reg.FirstName}', '{Reg.LastName}', '{Reg.Email}', '{Reg.Password}');");
                 TempData["register"] = "Registered";
                 return RedirectToAction("Success");
