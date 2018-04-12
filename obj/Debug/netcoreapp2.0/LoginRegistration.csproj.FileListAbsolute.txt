@@ -1,0 +1,10 @@
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\NetCoreIntermediateAssignments\LoginRegistration\bin\Debug\netcoreapp2.0\LoginRegistration.deps.json
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\NetCoreIntermediateAssignments\LoginRegistration\bin\Debug\netcoreapp2.0\LoginRegistration.runtimeconfig.json
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\NetCoreIntermediateAssignments\LoginRegistration\bin\Debug\netcoreapp2.0\LoginRegistration.runtimeconfig.dev.json
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\NetCoreIntermediateAssignments\LoginRegistration\bin\Debug\netcoreapp2.0\LoginRegistration.dll
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\NetCoreIntermediateAssignments\LoginRegistration\bin\Debug\netcoreapp2.0\LoginRegistration.pdb
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\NetCoreIntermediateAssignments\LoginRegistration\obj\Debug\netcoreapp2.0\LoginRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\NetCoreIntermediateAssignments\LoginRegistration\obj\Debug\netcoreapp2.0\LoginRegistration.AssemblyInfoInputs.cache
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\NetCoreIntermediateAssignments\LoginRegistration\obj\Debug\netcoreapp2.0\LoginRegistration.AssemblyInfo.cs
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\NetCoreIntermediateAssignments\LoginRegistration\obj\Debug\netcoreapp2.0\LoginRegistration.dll
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\NetCoreIntermediateAssignments\LoginRegistration\obj\Debug\netcoreapp2.0\LoginRegistration.pdb
